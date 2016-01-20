@@ -2,7 +2,7 @@
 
 ## Copyright
 
-Portions contributed by Matt Zukowski are copyright (c) 2011 Urbacon Ltd.
+Portions contributed by Matt Zukowski are copyright (c) 2011 Urbacon Ltd. and Open Cognition, Inc.
 Other portions are copyright of their respective authors.
 
 ## Authors
